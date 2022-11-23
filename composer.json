@@ -1,0 +1,7 @@
+{
+    "require": {
+         "php-amqplib/php-amqplib": ">=3.0",
+        "fabpot/goutte": "^4.0",
+        "symfony/dom-crawler": "^6.1"
+    }
+}
